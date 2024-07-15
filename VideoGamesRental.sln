@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGamesRental.Api", "VideoGamesRental.Api\VideoGamesRental.Api.csproj", "{15E0F2F8-CB67-48C3-82C9-4270D952A28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E0F2F8-CB67-48C3-82C9-4270D952A28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E0F2F8-CB67-48C3-82C9-4270D952A28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E0F2F8-CB67-48C3-82C9-4270D952A28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E0F2F8-CB67-48C3-82C9-4270D952A28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
